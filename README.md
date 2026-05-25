@@ -35,7 +35,3 @@ NexusERP is a next-generation, high-performance Dynamic ERP System built for mod
 
 Follow these steps to get your local environment running smoothly:
 
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/nexus-erp.git](https://github.com/your-username/nexus-erp.git)
-cd nexus-erp
